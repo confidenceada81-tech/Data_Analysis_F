@@ -59,28 +59,28 @@ Repository Structure
 
 `This repository is intended to:`
 
-     Track my learning progress in data analysis
-     Build a professional portfolio
-     Practice real-world data analysis skills
-     Share beginner-friendly projects and solutions
-     Demonstrate my transition into data analytics and technology
+      Track my learning progress in data analysis
+      Build a professional portfolio
+      Practice real-world data analysis skills
+      Share beginner-friendly projects and solutions
+      Demonstrate my transition into data analytics and technology
     
 `Tools and Technologies`
     
-     Google Sheets
-     Microsoft Excel
-     SQL
-     Power BI
-     Git & GitHub
+      Google Sheets
+      Microsoft Excel
+      SQL
+      Power BI
+      Git & GitHub
     
 About Me
 
 `My name is Confidence Ada Ndukwe`, and I am an accounting graduate and aspiring data analyst with interests in:
 
-    Data Analytics
-    Financial Analysis
-    Machine Learning
-    Artificial Intelligence
+     Data Analytics
+     Financial Analysis
+     Machine Learning
+     Artificial Intelligence
 
 I created this repository to document my continuous learning journey and practical experience in analytics and data-driven problem solving.
 
